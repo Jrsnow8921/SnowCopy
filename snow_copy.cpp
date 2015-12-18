@@ -24,6 +24,7 @@ int main() {
 
     end = clock();
 
+    cout << "COPY COMPLETE" << "\n" << "Succes" << "\n";
     cout << "CLOCKS_PER_SEC " << CLOCKS_PER_SEC << "\n";
     cout << "CPU-TIME START " << start << "\n";
     cout << "CPU-TIME END " << end << "\n";
